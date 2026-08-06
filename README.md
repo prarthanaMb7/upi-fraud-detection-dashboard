@@ -20,4 +20,4 @@ An interactive dashboard analyzing 37,000+ UPI (Unified Payments Interface) tran
 
 
 - ## Dashboard Preview
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](dashboard-preview.png.)
