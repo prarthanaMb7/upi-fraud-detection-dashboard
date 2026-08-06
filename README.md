@@ -17,3 +17,7 @@ An interactive dashboard analyzing 37,000+ UPI (Unified Payments Interface) tran
 - Data cleaning and structuring using SQL
 - Dashboard design and interactivity in Tableau
 - Applying fraud/anomaly detection logic to real transaction data
+
+
+- ## Dashboard Preview
+![Dashboard Preview](dashboard-preview.png)
